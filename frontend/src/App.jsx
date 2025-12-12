@@ -5,7 +5,7 @@ import Hero from './assets/Components/Hero'
 import Service from './assets/Components/Service'
 import Menu from './assets/Components/Menu'
 import Reservationform from './assets/Components/Reservationform'
-import Footer from './assets/Components/footer'
+import Footer from './assets/Components/Footer'
 
 const App = () => {
   return (
